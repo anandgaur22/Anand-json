@@ -1,0 +1,53 @@
+{
+"Data":[
+    {"Name":"Padam Petroleum", 
+      "Address":"Plot No-PP1 Sector-63 Noida-201301",
+       "Distance":"1.6km",
+       "Petrol Price":"71.14",
+       "Diesel Price":"57.71"
+},
+ 
+{"Name":"Satyam Filling Station", 
+      "Address":"Village-Avai Tehsil;Robertsgang Post office:Salkhan",
+       "Distance":"1.7km",
+       "Petrol Price":"71.46",
+       "Diesel Price":"58.04"
+},
+{"Name":"Indian Oil Petrol Pump", 
+      "Address":"Rasoolpur, Sector 63, Noida-201307",
+       "Distance":"2.0km",
+       "Petrol Price":"71.14",
+       "Diesel Price":"57.71"
+},
+{"Name":"HP Petrol Pump", 
+      "Address":"Near Mamoora Chowk, C Block, Phase 2, Industrial Area, Sector 62, Noida-201301",
+       "Distance":"2.1km",
+       "Petrol Price":"70.64",
+       "Diesel Price":"57.01"
+}, 
+ {"Name":"Shaheed Major Anurag Convenience", 
+      "Address":"Plot No-PP1 Sector-52 Near Sai Temple Noida-201307",
+       "Distance":"3.0km",
+       "Petrol Price":"71.14",
+       "Diesel Price":"57.71"
+},
+{"Name":"Jain Service Station", 
+      "Address":"Sector-54 Opp. Sector-57 Noida-201301",
+       "Distance":"3.8km",
+       "Petrol Price":"71.14",
+       "Diesel Price":"57.71"
+},
+{"Name":"Bharat Petroleum Petrol Pump", 
+      "Address":"Golf Marg, Morna, Sector 35, Noida-201301",
+       "Distance":"8.0km",
+       "Petrol Price":"72.04",
+       "Diesel Price":"56.51"
+},
+{"Name":"HP Petrol Pump", 
+      "Address":"J Block, Aghapur, Sector 49, Noida-201303",
+       "Distance":"8.1km",
+       "Petrol Price":"71.03",
+       "Diesel Price":"55.91"
+}
+]
+}
