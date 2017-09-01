@@ -1,0 +1,35 @@
+{
+"Data":[
+    {"Company":"Indian Oil", 
+       "Date":"01/09/2017",
+       "Petrol Price":"71.14",
+       "Diesel Price":"57.71"
+},
+ 
+{"Company":"HP Petrolum", 
+       "Date":"01/09/2017",
+       "Petrol Price":"71.54",
+       "Diesel Price":"56.71"
+},
+{"Company":"Bhara tGas", 
+       "Date":"01/09/2017",
+       "Petrol Price":"72.16",
+       "Diesel Price":"57.02"
+},
+{"Company":"Indian Oil", 
+       "Date":"02/09/2017",
+       "Petrol Price":"72.04",
+       "Diesel Price":"56.99"
+}, 
+ {"Company":"HP Petrolum", 
+       "Date":"02/09/2017",
+       "Petrol Price":"72.00",
+       "Diesel Price":"57.99"
+},
+{"Company":"BharatGas", 
+       "Date":"02/09/2017",
+       "Petrol Price":"72.55",
+       "Diesel Price":"57.01"
+}
+]
+}
