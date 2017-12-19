@@ -1,8 +1,8 @@
 [
     {
         "date": "16-12-2017",
-		"petrol": 69.13,
-        "diesel": 58.44,
+	"petrol": "69.13",
+        "diesel": "58.44",
         "city": "delhi"
 
     },
