@@ -1,0 +1,489 @@
+{
+    "code": 200,
+    "message": "success",
+    "state_name": "Uttar Pradesh",
+    "rate_date": "2018-01-07",
+    "cities": [
+        {
+            "id": 251,
+            "diesel": 60.35,
+            "diesel_difference": 0.16,
+            "petrol": 71.57,
+            "petrol_difference": 0.12,
+            "name": "Gonda"
+        },
+        {
+            "id": 252,
+            "diesel": 60.38,
+            "diesel_difference": 0.16,
+            "petrol": 71.64,
+            "petrol_difference": 0.12,
+            "name": "Aligarh"
+        },
+        {
+            "id": 253,
+            "diesel": 60.73,
+            "diesel_difference": 0.16,
+            "petrol": 71.97,
+            "petrol_difference": 0.12,
+            "name": "Basti"
+        },
+        {
+            "id": 254,
+            "diesel": 67.7,
+            "diesel_difference": 0,
+            "petrol": 71.65,
+            "petrol_difference": 0.12,
+            "name": "Unnao"
+        },
+        {
+            "id": 255,
+            "diesel": 60.58,
+            "diesel_difference": 0.16,
+            "petrol": 71.79,
+            "petrol_difference": 0.12,
+            "name": "Kaushambi"
+        },
+        {
+            "id": 256,
+            "diesel": 60.31,
+            "diesel_difference": 0.16,
+            "petrol": 71.54,
+            "petrol_difference": 0.12,
+            "name": "Jhansi"
+        },
+        {
+            "id": 257,
+            "diesel": 61.17,
+            "diesel_difference": 0.16,
+            "petrol": 72.45,
+            "petrol_difference": 0.12,
+            "name": "Noida"
+        },
+        {
+            "id": 258,
+            "diesel": 60.59,
+            "diesel_difference": 0.16,
+            "petrol": 71.83,
+            "petrol_difference": 0.12,
+            "name": "Hardoi"
+        },
+        {
+            "id": 259,
+            "diesel": 60.91,
+            "diesel_difference": 0.16,
+            "petrol": 72.17,
+            "petrol_difference": 0.12,
+            "name": "Etawah"
+        },
+        {
+            "id": 260,
+            "diesel": 60.47,
+            "diesel_difference": 0.16,
+            "petrol": 71.71,
+            "petrol_difference": 0.12,
+            "name": "Bagpat"
+        },
+        {
+            "id": 261,
+            "diesel": 59.35,
+            "diesel_difference": 0.16,
+            "petrol": 73.94,
+            "petrol_difference": 0.12,
+            "name": "Sultanpur"
+        },
+        {
+            "id": 262,
+            "diesel": 60.39,
+            "diesel_difference": 0.16,
+            "petrol": 71.62,
+            "petrol_difference": 0.12,
+            "name": "Bijnor"
+        },
+        {
+            "id": 263,
+            "diesel": 60.7,
+            "diesel_difference": 0.16,
+            "petrol": 71.46,
+            "petrol_difference": 0.12,
+            "name": "Rampur"
+        },
+        {
+            "id": 264,
+            "diesel": 60.44,
+            "diesel_difference": 0.16,
+            "petrol": 71.66,
+            "petrol_difference": 0.12,
+            "name": "Allahabad"
+        },
+        {
+            "id": 265,
+            "diesel": 60.54,
+            "diesel_difference": 0.16,
+            "petrol": 71.76,
+            "petrol_difference": 0.12,
+            "name": "Faizabad"
+        },
+        {
+            "id": 266,
+            "diesel": 60.72,
+            "diesel_difference": 0.16,
+            "petrol": 71.98,
+            "petrol_difference": 0.12,
+            "name": "Bulandshahr"
+        },
+        {
+            "id": 267,
+            "diesel": 59.99,
+            "diesel_difference": 0.16,
+            "petrol": 71.25,
+            "petrol_difference": 0.12,
+            "name": "Mathura"
+        },
+        {
+            "id": 268,
+            "diesel": 55.75,
+            "diesel_difference": 0.16,
+            "petrol": 70.99,
+            "petrol_difference": 0.12,
+            "name": "Hathras"
+        },
+        {
+            "id": 269,
+            "diesel": 61.07,
+            "diesel_difference": 0.17,
+            "petrol": 72.34,
+            "petrol_difference": 0.12,
+            "name": "Ghaziabad"
+        },
+        {
+            "id": 270,
+            "diesel": 60.26,
+            "diesel_difference": 0.16,
+            "petrol": 71.49,
+            "petrol_difference": 0.12,
+            "name": "Kanpur"
+        },
+        {
+            "id": 271,
+            "diesel": 60.58,
+            "diesel_difference": 0.16,
+            "petrol": 71.8,
+            "petrol_difference": 0.12,
+            "name": "Bahraich"
+        },
+        {
+            "id": 272,
+            "diesel": 60.18,
+            "diesel_difference": 0.16,
+            "petrol": 71.42,
+            "petrol_difference": 0.12,
+            "name": "Agra"
+        },
+        {
+            "id": 273,
+            "diesel": 60.76,
+            "diesel_difference": 0.16,
+            "petrol": 72,
+            "petrol_difference": 0.12,
+            "name": "Ballia"
+        },
+        {
+            "id": 274,
+            "diesel": 60.5,
+            "diesel_difference": 0.16,
+            "petrol": 71.73,
+            "petrol_difference": 0.12,
+            "name": "Bareilly"
+        },
+        {
+            "id": 275,
+            "diesel": 60.37,
+            "diesel_difference": 0.16,
+            "petrol": 71.61,
+            "petrol_difference": 0.12,
+            "name": "Shahjahanpur"
+        },
+        {
+            "id": 276,
+            "diesel": 60.67,
+            "diesel_difference": 0.16,
+            "petrol": 71.91,
+            "petrol_difference": 0.12,
+            "name": "Auraiya"
+        },
+        {
+            "id": 277,
+            "diesel": 60.91,
+            "diesel_difference": 0.16,
+            "petrol": 72.15,
+            "petrol_difference": 0.12,
+            "name": "Banda"
+        },
+        {
+            "id": 278,
+            "diesel": 60.24,
+            "diesel_difference": 0.16,
+            "petrol": 71.47,
+            "petrol_difference": 0.12,
+            "name": "Deoria"
+        },
+        {
+            "id": 279,
+            "diesel": 60.57,
+            "diesel_difference": 0.16,
+            "petrol": 71.8,
+            "petrol_difference": 0.12,
+            "name": "Varanasi"
+        },
+        {
+            "id": 280,
+            "diesel": 60.76,
+            "diesel_difference": 0.16,
+            "petrol": 71.99,
+            "petrol_difference": 0.12,
+            "name": "Moradabad"
+        },
+        {
+            "id": 281,
+            "diesel": 60.35,
+            "diesel_difference": 0.16,
+            "petrol": 71.57,
+            "petrol_difference": 0.12,
+            "name": "Chandauli"
+        },
+        {
+            "id": 282,
+            "diesel": 60.95,
+            "diesel_difference": 0.16,
+            "petrol": 72.17,
+            "petrol_difference": 0.12,
+            "name": "Gauriganj"
+        },
+        {
+            "id": 283,
+            "diesel": 56.16,
+            "diesel_difference": 0.16,
+            "petrol": 71.37,
+            "petrol_difference": 0.12,
+            "name": "Amroha"
+        },
+        {
+            "id": 284,
+            "diesel": 60.94,
+            "diesel_difference": 0.16,
+            "petrol": 72.16,
+            "petrol_difference": 0.12,
+            "name": "Jaunpur"
+        },
+        {
+            "id": 285,
+            "diesel": 60.32,
+            "diesel_difference": 0.16,
+            "petrol": 71.57,
+            "petrol_difference": 0.12,
+            "name": "Etah"
+        },
+        {
+            "id": 286,
+            "diesel": 60.47,
+            "diesel_difference": 0.16,
+            "petrol": 71.72,
+            "petrol_difference": 0.12,
+            "name": "Kasganj"
+        },
+        {
+            "id": 287,
+            "diesel": 60.83,
+            "diesel_difference": 0.16,
+            "petrol": 72.07,
+            "petrol_difference": 0.12,
+            "name": "Lalitpur"
+        },
+        {
+            "id": 288,
+            "diesel": 60.67,
+            "diesel_difference": 0.16,
+            "petrol": 72.14,
+            "petrol_difference": 0.12,
+            "name": "Orai"
+        },
+        {
+            "id": 289,
+            "diesel": 60.16,
+            "diesel_difference": 0.16,
+            "petrol": 71.41,
+            "petrol_difference": 0.12,
+            "name": "Firozabad"
+        },
+        {
+            "id": 290,
+            "diesel": 60.63,
+            "diesel_difference": 0.16,
+            "petrol": 71.85,
+            "petrol_difference": 0.12,
+            "name": "Mirzapur"
+        },
+        {
+            "id": 291,
+            "diesel": 60.81,
+            "diesel_difference": 0.16,
+            "petrol": 71.98,
+            "petrol_difference": 0.12,
+            "name": "Sitapur"
+        },
+        {
+            "id": 292,
+            "diesel": 60.37,
+            "diesel_difference": 0.16,
+            "petrol": 71.6,
+            "petrol_difference": 0.12,
+            "name": "Akbarpur"
+        },
+        {
+            "id": 293,
+            "diesel": 60.79,
+            "diesel_difference": 0.16,
+            "petrol": 72.01,
+            "petrol_difference": 0.12,
+            "name": "Raebareli"
+        },
+        {
+            "id": 294,
+            "diesel": 60.25,
+            "diesel_difference": 0.16,
+            "petrol": 71.49,
+            "petrol_difference": 0.12,
+            "name": "Meerut"
+        },
+        {
+            "id": 295,
+            "diesel": 60.89,
+            "diesel_difference": 0.16,
+            "petrol": 72.12,
+            "petrol_difference": 0.12,
+            "name": "Ghazipur"
+        },
+        {
+            "id": 296,
+            "diesel": 60.45,
+            "diesel_difference": 0.16,
+            "petrol": 71.69,
+            "petrol_difference": 0.12,
+            "name": "Kushinagar"
+        },
+        {
+            "id": 297,
+            "diesel": 61.15,
+            "diesel_difference": 0.16,
+            "petrol": 72.41,
+            "petrol_difference": 0.12,
+            "name": "Lucknow"
+        },
+        {
+            "id": 298,
+            "diesel": 61.06,
+            "diesel_difference": 0.16,
+            "petrol": 72.3,
+            "petrol_difference": 0.12,
+            "name": "Mahoba"
+        },
+        {
+            "id": 299,
+            "diesel": 60.81,
+            "diesel_difference": 0.16,
+            "petrol": 72.06,
+            "petrol_difference": 0.12,
+            "name": "Lakhimpur"
+        },
+        {
+            "id": 300,
+            "diesel": 60.68,
+            "diesel_difference": 0.16,
+            "petrol": 71.91,
+            "petrol_difference": 0.12,
+            "name": "Pilibhit"
+        },
+        {
+            "id": 301,
+            "diesel": 60.64,
+            "diesel_difference": 0.16,
+            "petrol": 71.88,
+            "petrol_difference": 0.12,
+            "name": "Fatehpur"
+        },
+        {
+            "id": 302,
+            "diesel": 60.94,
+            "diesel_difference": 0.16,
+            "petrol": 72.18,
+            "petrol_difference": 0.12,
+            "name": "Saharanpur"
+        },
+        {
+            "id": 303,
+            "diesel": 60.5,
+            "diesel_difference": 0.16,
+            "petrol": 71.75,
+            "petrol_difference": 0.12,
+            "name": "Mainpuri"
+        },
+        {
+            "id": 304,
+            "diesel": 60.57,
+            "diesel_difference": 0.16,
+            "petrol": 71.79,
+            "petrol_difference": 0.12,
+            "name": "Barabanki"
+        },
+        {
+            "id": 305,
+            "diesel": 60.82,
+            "diesel_difference": 0.16,
+            "petrol": 72.08,
+            "petrol_difference": 0.12,
+            "name": "Budaun"
+        },
+        {
+            "id": 306,
+            "diesel": 60.72,
+            "diesel_difference": 0.16,
+            "petrol": 71.96,
+            "petrol_difference": 0.12,
+            "name": "Mau"
+        },
+        {
+            "id": 307,
+            "diesel": 60.56,
+            "diesel_difference": 0.16,
+            "petrol": 71.8,
+            "petrol_difference": 0.12,
+            "name": "Muzaffarnagar"
+        },
+        {
+            "id": 308,
+            "diesel": 60.61,
+            "diesel_difference": 0.16,
+            "petrol": 71.85,
+            "petrol_difference": 0.12,
+            "name": "Kannauj"
+        },
+        {
+            "id": 309,
+            "diesel": 60.81,
+            "diesel_difference": 0.16,
+            "petrol": 72.03,
+            "petrol_difference": 0.12,
+            "name": "Robertsganj"
+        },
+        {
+            "id": 310,
+            "diesel": 60.83,
+            "diesel_difference": 0.16,
+            "petrol": 72.04,
+            "petrol_difference": 0.12,
+            "name": "Maharajganj"
+        }
+    ],
+    "upgradeToPro": "You will get 2 days old fuel price since your Subscription is BASIC. Upgrade to PRO plan to get daily updates"
+}
