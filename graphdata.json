@@ -1,0 +1,58 @@
+[
+   {
+      "date":"27-01-18",
+      "City_Name":"Noida",
+      "Fuel_Type":"Diesel",
+      "Fuel_Company":"Indian Oil",
+      "Fuel_price":64.12
+   },
+   {
+      "date":"27-01-18",
+      "City_Name":"Noida",
+      "Fuel_Type":"Petrol",
+      "Fuel_Company":"Indian Oil",
+      "Fuel_price":74.37
+   },
+   {
+      "date":"28-01-18",
+      "City_Name":"Noida",
+      "Fuel_Type":"Diesel",
+      "Fuel_Company":"Indian Oil",
+      "Fuel_price":64.2
+   },
+   {
+      "date":"28-01-18",
+      "City_Name":"Noida",
+      "Fuel_Type":"Petrol",
+      "Fuel_Company":"Indian Oil",
+      "Fuel_price":74.41
+   },
+   {
+      "date":"29-01-18",
+      "City_Name":"Noida",
+      "Fuel_Type":"Diesel",
+      "Fuel_Company":"Indian Oil",
+      "Fuel_price":64.27
+   },
+   {
+      "date":"29-01-18",
+      "City_Name":"Noida",
+      "Fuel_Type":"Petrol",
+      "Fuel_Company":"Indian Oil",
+      "Fuel_price":74.46
+   },
+   {
+      "date":"30-01-18",
+      "City_Name":"Noida",
+      "Fuel_Type":"Diesel",
+      "Fuel_Company":"Indian Oil",
+      "Fuel_price":64.33
+   },
+   {
+      "date":"30-01-18",
+      "City_Name":"Noida",
+      "Fuel_Type":"Petrol",
+      "Fuel_Company":"Indian Oil",
+      "Fuel_price":74.53
+   }
+]
