@@ -10,7 +10,7 @@
       "date":"30-01-18",
       "city":"Noida",
       "company":"Indian Oil",
-      "Diesel_p":74.37,
+      "Diesel_p":68.37,
 	  "Petrol_p": 77.00
    },
    {
@@ -24,7 +24,7 @@
       "date":"28-01-18",
       "city":"Noida",
       "company":"Indian Oil",
-      "Diesel_p":74.41,
+      "Diesel_p":67.41,
 	  "Petrol_p": 76.23
    },
    {
@@ -38,7 +38,7 @@
       "date":"26-01-18",
       "city":"Noida",
       "company":"Indian Oil",
-      "Diesel_p":74.46,
+      "Diesel_p":64.46,
 	  "Petrol_p": 75.85
    },
    {
@@ -52,7 +52,7 @@
       "date":"24-01-18",
       "city":"Noida",
       "company":"Indian Oil",
-      "Diesel_p":74.53,
+      "Diesel_p":64.53,
 	  "Petrol_p": 74.44
    }
 ]
