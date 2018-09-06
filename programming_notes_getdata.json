@@ -1,0 +1,100 @@
+[
+    {
+        "id": "1",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2Fjava.png?alt=media&token=1e437576-5287-401b-bc43-c45ce0fb04de",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/2a83387e7cc5cc542386e18fdc82de26-full.jpg",
+        "book_name": "Java",
+		"book_category": "Programming",
+        "rating_view": "50",
+		"rating": "4.5"
+    },
+    {
+   
+        "id": "2",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2FAndroid%20development.png?alt=media&token=4f521aba-9ae8-4a59-8f6b-f86e9d196d97",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/e6341a75425b3e8ed50322a85bb351f0-full.jpg",
+        "book_name": "Android",
+		"book_category": "Programming",
+        "rating_view": "45",
+		"rating": "4.0"
+    },
+    {
+       "id": "3",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2Fc%20language.png?alt=media&token=80131461-69de-458d-a685-c886015f1e02",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/2e0ac6e32a5e83f145da7e9201136237-full.png",
+        "book_name": "C Language",
+		"book_category": "Programming",
+        "rating_view": "30",
+		"rating": "3.8"
+    },
+    {
+   
+        "id": "4",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2FSwift.png?alt=media&token=84a8b260-a39a-470d-805a-9bd44e06dced",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/f1722b7ed169851f3fcf3761800f6241-full.jpg",
+        "book_name": "Swift",
+		"book_category": "Programming",
+        "rating_view": "35",
+		"rating": "3.5"
+    },
+    {
+   
+        "id": "5",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2Fkotlin.png?alt=media&token=483820c3-5227-4a51-a584-9d893e4b739f",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/e073226ab314aac9e1a59826b2b9eb78-full.jpg",
+        "book_name": "Kotlin",
+		"book_category": "Programming",
+        "rating_view": "25",
+		"rating": "3.0"
+    },
+    {
+   
+        "id": "6",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2Fpython.png?alt=media&token=0e647318-0721-4535-baaf-ec3c8633721b",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/03eeb527b11086c622e89d8fd2f13318-full.jpg",
+        "book_name": "Python",
+		"book_category": "Programming",
+        "rating_view": "48",
+		"rating": "4.6"
+    },
+    {
+   
+        "id": "7",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2FAngular%20js.png?alt=media&token=d15b02a6-906c-42bd-a236-cde125208a43",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/89aef57496d62779e69a6d608680daa0-full.jpg",
+        "book_name": "Angular Js",
+		"book_category": "Programming",
+        "rating_view": "28",
+		"rating": "3.9"
+    },
+    {
+   
+        "id": "8",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2Fjava%20script.png?alt=media&token=8fff58a1-c0de-46c2-87a6-7920f649531b",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/6114b99adf3209ca204fe1419eb8238c-full.jpg",
+        "book_name": "Java Script",
+		"book_category": "Programming",
+        "rating_view": "42",
+		"rating": "4.2"
+    },
+    {
+   
+        "id": "9",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2Fvisual%20basic%20dot%20net.png?alt=media&token=75b3859b-aee0-49e8-9dc2-6958e0123222",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/ddb31e0b8e26d71aeae833ebea02e6bf-full.jpg",
+        "book_name": "Visual Basic Dot Net",
+		"book_category": "Programming",
+        "rating_view": "36",
+		"rating": "3.6"
+    },
+    {
+   
+        "id": "10",
+        "front_page_book_url": "https://firebasestorage.googleapis.com/v0/b/programminghub-3a236.appspot.com/o/thumbnail%2Fmongo%20DB.png?alt=media&token=f23988fc-8a12-43d9-a7e6-be794f0a1788",
+        "background_book_url": "https://cdn1.imggmi.com/uploads/2018/9/6/c68d53f6689899db3e54535f09faff12-full.jpg",
+        "book_name": "Mongo DB",
+		"book_category": "Database",
+        "rating_view": "22",
+		"rating": "3.0"
+    }
+]
