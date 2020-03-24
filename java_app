@@ -1,0 +1,18 @@
+{
+"status":"true",
+"message": "Data fetch Successfully",
+"covid_status": "1",
+"text": "demo",
+"data": [
+{
+"banner_url": "https://hidudes.co.in/uploads/images/profile.png",
+"text": "dummy"
+},
+{
+"banner_url": "https://hidudes.co.in/uploads/images/profile.png",
+"text": "dummy"
+}
+
+]
+
+}
