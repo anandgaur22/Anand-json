@@ -5,14 +5,29 @@
 "text": "demo",
 "data": [
 {
-"banner_url": "https://hidudes.co.in/uploads/images/sale_banner.png",
+"banner_url": "https://hidudes.co.in/uploads/images/banner3.png",
+"text": "dummy"
+},
+{
+"banner_url": "https://hidudes.co.in/uploads/images/banner4.png",
+"text": "dummy"
+},
+{
+"banner_url": "https://hidudes.co.in/uploads/images/banner5.png",
+"text": "dummy"
+},
+{
+"banner_url": "https://hidudes.co.in/uploads/images/banner6.png",
+"text": "dummy"
+},
+{
+"banner_url": "https://hidudes.co.in/uploads/images/banner7.png",
 "text": "dummy"
 },
 {
 "banner_url": "https://hidudes.co.in/uploads/images/banner1.png",
 "text": "dummy"
 }
-
 ]
 
 }
