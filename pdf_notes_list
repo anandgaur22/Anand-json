@@ -6,8 +6,7 @@
             "id": "2",
             "titel": "Core java By Durga Sir",
             "short_desc": "This notes cover full core java",
-            "description": "<p><span style="color: #0000ff;"><span style="text-decoration: underline;"><strong>Topic Cover in this pdf file :</strong></span></span></p>
-<p style="text-align: left;">1) Introduction<br />a. Flow control statements<br />b. Variables<br />c. Methods<br />d. Constructors<br />2) Oops<br />a. Inheritance<br />b. Polymorphism<br />c. Garbage Collector<br />d. Abstraction<br />e. Main method<br />f. Encapsulation<br />3) Packages<br />4) Interfaces<br />5) String manipulations<br />6) Wrapper classes<br />7) Java.io<br />8) Exception handling<br />9) Multi-Threading<br />10) Nested classes<br />11) Enumeration<br />12) Collections &amp; generics<br />13) Networking<br />14) Java.awt<br />15) Swings<br />16) i18n<br />17) Arrays<br />18) Java interview questions<br /><br /></p>",
+            "description": "Topic include in this pdf file is 1) Introduction a. Flow control statements b. Variables c. Methods d. Constructors 2) Oops a. Inheritance b. Polymorphism c. Garbage Collector d. Abstraction e. Main method f. Encapsulation 3) Packages 4) Interfaces 5) String mnipultions 6) Wrapper classes 7) Java.io 8) Exception handling 9) Multi Threading 10) Nested classes 11) Enumeration 12) Collections & generics 13) Networking 14) Java.awt 15) Swings 16) i18n 17) Arrays 18) Java interview questions",
             "rating": "4.8",
             "pdf_sampal_files": "https://hidudes.co.in/uploads/images/p21.jpg",
             "price": "300",
